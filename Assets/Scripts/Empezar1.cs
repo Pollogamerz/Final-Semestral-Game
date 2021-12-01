@@ -20,6 +20,7 @@ public class Empezar1 : MonoBehaviour
     public void Empezar()
     {
         SceneManager.LoadScene("Game");
+        Time.timeScale = 1;
     }
 
     
