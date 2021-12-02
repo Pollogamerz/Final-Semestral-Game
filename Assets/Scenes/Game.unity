@@ -1416,7 +1416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -285.00006, y: 199.50006}
+  m_AnchoredPosition: {x: -285.00006, y: 169}
   m_SizeDelta: {x: 500, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1090757522
@@ -2332,10 +2332,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacule: {fileID: 7963338427732527370, guid: bcf2f4769c56cb047b14eaa601c0e30a, type: 3}
-  maxX: 3.5
-  minX: 3
+  maxX: 5
+  minX: 5
   maxY: 5
-  minY: -3.5
+  minY: -5
   timeBetweenSpawn: 0.6
   pauseMenu: {fileID: 1968303871}
 --- !u!4 &1432260205
@@ -8138,7 +8138,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 197}
+  m_AnchoredPosition: {x: 0, y: 166.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2047230732
@@ -8328,7 +8328,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -235, y: -96}
+  m_AnchoredPosition: {x: -282, y: -88}
   m_SizeDelta: {x: 269.0857, y: 226.5572}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2929252285143555370
@@ -8427,7 +8427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7622305114432887224, guid: 57143096ba6f4174bb2df10618187715, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 353
+      value: 293
       objectReference: {fileID: 0}
     - target: {fileID: 7622305114432887224, guid: 57143096ba6f4174bb2df10618187715, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
